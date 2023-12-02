@@ -1,4 +1,4 @@
-# Olá! Eu sou o David Costa 🖐🏽
+# Olá! Eu sou o David Costa 🖐🏽 <img src="https://hermes.dio.me/users/student/125bb058-9f0e-40bd-8c1c-bbb011ee601f.jpg" height="100">
 #### Sou iniciante em programação, adoro aprender e inovar pensando em idéias criativas para resolver problemas e expectativas. Gosto sempre de pensar além de nítido, e sempre tento buscar valor nos detalhes. 
 
 # Minhas Redes 💬
@@ -22,5 +22,17 @@
 <br>
 
 # Github Stats
+
+![David Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidHenriqueCosta&show_icons=true&theme=dracula)
+
+#### Entusiasmado, dedicado e divertido seriam as minhas primeiras impressões. e estou mergulhando no mundo da programação.
+
+#### Em equipes diversas, percebo cada desafio como uma oportunidade de aprendizado. Transmitir minhas ideias não é um problema para mim, por isso busco entender o contexto para contrubuir de maneira eficaz. Estou aqui para absorver conhecimento, colaborar e evoluir junto com colegas talentosos.
+
+
+
+#### Adaptabilidade é minha palavra de ordem. Encaro cada desafio como uma chance de crescimento, e a diversidade em equipes é o tempero que torna tudo mais interessante. Estou construindo não apenas habilidades técnicas, mas também uma mentalidade aberta e colaborativa.
+
+#### Estou pronto para abraçar as complexidades da programação, ansioso para aprender com as experiências e contribuir para um ambiente de trabalho cheio de energia e crescimento conjunto. Estou aqui para aprender, crescer e, acima de tudo, tornar-me um ativo valioso em equipes que compartilham do mesmo espírito de entusiasmo e aprendizado constante.
 
 ![David Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidHenriqueCosta&show_icons=true&theme=dracula)
